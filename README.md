@@ -2,7 +2,7 @@
 Riya Bharamaraddi, Ryan Bowering, Kayla Martinez, Adithya Ramji
 
 ## Introduction
-AI image generation has ben exploding in polularity over the past year, and it has become increasingly difficult to distinguish them from real images. Our goals were to train models to identify AI-Generated images, and find subtle differences between AI-generated and real images that could be further explored to make distinguishing them easier. We used the [CIFAKE](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images) Dataset containing 120,000 images for this project.
+AI image generation has been exploding in popularity over the past year, and it has become increasingly difficult to distinguish AI-generated images from real ones. Our goals were to train models to identify AI-Generated images, and find subtle differences between AI-generated and real images that could be further explored to make distinguishing them easier. We used the [CIFAKE](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images) Dataset containing 120,000 images for this project.
 
 ## Human Baseline test
 Want to see how well you can identify AI-generated images from the CIFAKE dataset? Take our [human baseline](https://docs.google.com/forms/d/e/1FAIpQLSfF5GdTvXe9jbBRdy-UBmN0t7ICy4631gzULimW0ParjxaxZg/viewform) test! It contains 15 randomly selected images from the dataset for you to try classifying.
@@ -10,7 +10,7 @@ Want to see how well you can identify AI-generated images from the CIFAKE datase
 ## Instructions
 
 ### Running the notebooks
-Most of these notebooks are set up to be ran in Google Colabs out of the box, though they can be run on any Jupyter server if you install the necessary packages. On Colabs, you will need to add the data files to the runtime. Accessing the data on other servers may vary depending on how you set up your directory.
+Most of these notebooks are set up to be run in Google Colabs out of the box, though they can be run on any Jupyter server if you install the necessary packages. On Colabs, you will need to add the data files to the runtime. Accessing the data on other servers may vary depending on how you set up your directory.
 
 There are two notebooks that should be run on Kaggle: `kaggle-data-compression.ipynb` and `ViT.ipynb`. Add the `CIFAKE: Real and AI-Generated Synthetic Images` dataset to the environment and the notebooks should run.
 
