@@ -4,6 +4,8 @@ Riya Bharamaraddi, Ryan Bowering, Kayla Martinez, Adithya Ramji
 ## Introduction
 AI image generation has been exploding in popularity over the past year, and it has become increasingly difficult to distinguish AI-generated images from real ones. Our goals were to train models to identify AI-Generated images, and find subtle differences between AI-generated and real images that could be further explored to make distinguishing them easier. We used the [CIFAKE](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images) Dataset containing 120,000 images for this project.
 
+This is a continuation of a project from MA415 last spring. Check out that repo: https://github.com/rhit-bowerirn/MA415_AI_Real_Images
+
 ## Human Baseline test
 Want to see how well you can identify AI-generated images from the CIFAKE dataset? Take our [human baseline](https://docs.google.com/forms/d/e/1FAIpQLSfF5GdTvXe9jbBRdy-UBmN0t7ICy4631gzULimW0ParjxaxZg/viewform) test! It contains 15 randomly selected images from the dataset for you to try classifying.
 
